@@ -33,7 +33,7 @@ class ImageViewer extends StatelessWidget {
       body: Center(
           child: Image.asset(
         "assets/images/image.jpeg",
-        width: 500,
+        width: 1000,
         height: 500,
       )),
     );
